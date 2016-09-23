@@ -113,8 +113,8 @@ median(newStepsPerDay$steps)
 ```
 4.3 Do these values differ from the estimates from the first part of the assignment? What is the impact of imputing missing data on the estimates of the total daily number of steps?
 
-**The difference of imputing minus original data mean: 0   **  
-**The difference of imputing minus original data median: -1.1886792**
+**The difference of imputing minus original data mean: 0       
+The difference of imputing minus original data median: -1.1886792**
 
 ## Are there differences in activity patterns between weekdays and weekends?
 5.1 Create a new factor variable in the dataset with two levels -- "weekday" and "weekend" indicating whether a given date is a weekday or weekend day.
